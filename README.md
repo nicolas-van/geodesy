@@ -1,6 +1,8 @@
 Geodesy functions
 =================
 
+This repository is a re-packaging of [geodesy](https://github.com/chrisveness/geodesy) by Chris Veness to add commonjs support.
+
 [![Build Status](https://travis-ci.org/chrisveness/geodesy.svg?branch=master)](https://travis-ci.org/chrisveness/geodesy)
 [![Coverage Status](https://coveralls.io/repos/github/chrisveness/geodesy/badge.svg)](https://coveralls.io/github/chrisveness/geodesy)
 [![Documentation](https://img.shields.io/badge/docs-www.movable--type.co.uk%2Fscripts%2Fgeodesy--library.html-lightgrey.svg)](https://www.movable-type.co.uk/scripts/geodesy-library.html)
