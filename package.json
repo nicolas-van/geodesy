@@ -27,11 +27,12 @@
   "author": "Chris Veness",
   "version": "2.2.1",
   "license": "MIT",
+  "type": "module",
   "engines": {
     "node": ">=8.0.0"
   },
-  "main": "dist/geodesy.cjs.js",
-  "module": "dist/geodesy.esm.js",
+  "main": "dist/geodesy.cjs",
+  "module": "dist/geodesy.mjs",
   "bugs": "https://github.com/chrisveness/geodesy/issues",
   "scripts": {
     "build": "rollup -c",
